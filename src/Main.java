@@ -5,7 +5,7 @@ public class Main {
 
     private static final String URL = "jdbc:postgresql://localhost:5432/postgres";
     private static final String USER = "postgres";
-    private static final String PASSWORD = "12345";
+    private static final String PASSWORD = "your_password";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
